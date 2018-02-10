@@ -1,4 +1,4 @@
-// Package statuscake implements a client for statuscake.com API.
+// package uptimerobot implements a client for statuscake.com API.
 //
 //  // list all `Tests`
 //  c, err := statuscake.New(statuscake.Auth{Username: username, Apikey: apikey})
@@ -31,4 +31,4 @@
 //  // get Tests details
 //  t, err := tt.Detail(id)
 //  ...
-package statuscake
+package uptimerobot

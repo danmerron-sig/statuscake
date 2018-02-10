@@ -1,4 +1,4 @@
-package statuscake
+package uptimerobot
 
 import (
 	"strings"
